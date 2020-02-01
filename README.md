@@ -1,5 +1,5 @@
-## GoBarber
+# GoBarber
 
-* # beauty service scheduling app
+* ## Beauty service scheduling app
 
-* # Rocketseat-Gostack-Bootcamp2020
+* ## Rocketseat-Gostack-Bootcamp2020
